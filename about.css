@@ -7,6 +7,7 @@ html {
 
 a {
   color: lightgrey;
+  margin: 0.5rem;
 }
 
 .navbar a{
@@ -19,7 +20,7 @@ ul {
 }
 
 figure img{
-  width: 75%;
+  width: 85%;
 }
 
 figcaption{
