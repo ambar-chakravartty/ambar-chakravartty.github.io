@@ -1,0 +1,31 @@
+html {
+  font-family: cursive;
+  font-size: 25px;
+  background-color: black;
+  color: lightgrey;
+}
+
+#banner{
+  margin: 0.5rem;
+  padding: 0.2rem;
+  font-family: monospace;
+}
+
+#s360 {
+  width: 50%;
+}
+
+#caption {
+  font-size: 11px;
+}
+
+a {
+  color: lightgrey;
+  margin: 0.5rem;
+}
+
+.focus {
+  margin: auto;
+  top: 50%;
+  left: 50%
+}
